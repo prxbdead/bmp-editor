@@ -1,7 +1,7 @@
 
 # Assembly BMP Editor
 
-![preview](https://github.com/prxbdead/bmp-editor/preview.png)
+![preview](https://github.com/prxbdead/bmp-editor/blob/main/preview.png?raw=true)
 This repository contains an assembly language program for editing BMP images, developed as a bonus project for my Computer Architecture course at university.
 
 ## Features
